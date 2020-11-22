@@ -87,7 +87,7 @@ namespace light_ControlsV3
 
             /*btn.Click += delegate   // En väg att skapa ett klick event för knappen btn
             {
-                txt.Text = "Fat fucking nigger bitch boi bag of chips!";
+                txt.Text = "Lmao bro. Duuuuuud!";
             };*/
 
         }
